@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# except these
+!masters-frontpage.pdf
+!masters-frontpage.png
+!masters-thesis.pdf
+!masters.zip
+!.gitignore
